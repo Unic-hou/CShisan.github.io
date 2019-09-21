@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2019/09/19/hello-world/"/>
+      <url>/2019/09/19/hello-world/</url>
+      
+        <content type="html"><![CDATA[<!-- build time:Sat Sep 21 2019 05:05:37 GMT+0800 (GMT+08:00) --><br><p>欢迎来到<a href="https://cshisan.github.io/" target="_blank" rel="noopener">CShisan’s Blog</a>! 这是我的第一篇博客.如果你在阅读过程中有任何疑问,你都可以在<a href="https://cshisan.github.io/" target="_blank" rel="noopener">这里</a>找到你想要的答案或者你可以在<a href="https://github.com/CShisan" target="_blank" rel="noopener">GitHub</a>联系我.</p><p>Welcome to <a href="https://cshisan.github.io/" target="_blank" rel="noopener">CShisan’s Blog</a>! This is my very first post.If you get any problems when Reading, you can find the answer in <a href="https://cshisan.github.io/" target="_blank" rel="noopener">Here</a> or you can ask me on <a href="https://github.com/CShisan" target="_blank" rel="noopener">GitHub</a>.</p><p><a href="https://cshisan.github.io/" target="_blank" rel="noopener">CShisan’s Blog</a>へようこそ！ これは私の最初の投稿です。読書中に問題が発生した場合は、<a href="https://cshisan.github.io/" target="_blank" rel="noopener">Here</a>または<a href="https://github.com/CShisan" target="_blank" rel="noopener">GitHub</a>で質問してください。</p><br><h1 id="命令展示"><a href="#命令展示" class="headerlink" title="命令展示"></a>命令展示</h1><h3 id="创建一篇文章"><a href="#创建一篇文章" class="headerlink" title="创建一篇文章"></a>创建一篇文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://cshisan.github.io/2019/09/15/hello-world/#more" target="_blank" rel="noopener">Writing</a></p><h4 id="创建一个页面"><a href="#创建一个页面" class="headerlink" title="创建一个页面"></a>创建一个页面</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new page XXX(XXX代表页面名字)</span><br></pre></td></tr></table></figure><p>More info: <a href="https://cshisan.github.io/2019/09/15/hello-world/#more" target="_blank" rel="noopener">Creat</a></p><h4 id="运行服务器"><a href="#运行服务器" class="headerlink" title="运行服务器"></a>运行服务器</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://cshisan.github.io/2019/09/15/hello-world/#more" target="_blank" rel="noopener">Server</a></p><h4 id="创建一个静态文件包"><a href="#创建一个静态文件包" class="headerlink" title="创建一个静态文件包"></a>创建一个静态文件包</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://cshisan.github.io/2019/09/15/hello-world/#more" target="_blank" rel="noopener">Generating</a></p><h4 id="部署到服务器"><a href="#部署到服务器" class="headerlink" title="部署到服务器"></a>部署到服务器</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://cshisan.github.io/2019/09/15/hello-world/#more" target="_blank" rel="noopener">Deployment</a></p><!-- rebuild by neat -->]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
